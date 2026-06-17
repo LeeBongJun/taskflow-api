@@ -1,0 +1,12 @@
+node_modules
+dist
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Claude Code
+.claude/
