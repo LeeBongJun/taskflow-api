@@ -10,3 +10,10 @@ dist
 
 # Claude Code
 .claude/
+.serena/
+
+# Personal dev notes
+dev-notes.txt
+dev-progress.txt
+dev-design.txt
+dev-diary.txt
